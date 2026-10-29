@@ -1,0 +1,10 @@
+Proje Adi: Akilli Lojistik Sistemi
+Ders: Nesneye Yönelik Programlama
+
+Grup Üyeleri:
+
+1250505063 - Hüseyin Emre Alemdar - Veri Modelleri, Kalitim Hiyerarsisi (Vehicle, Van, vs.), Kapsülleme, Konsol Arayüzü (Main) ve UML Sinif Diyagrami. 
+
+1250505032 - Faruk Can Ünal - Rota Optimizasyon Algoritmalari, Strategy Tasarim Kalibi, Kalici Dosya İslemleri (Repository) ve İlgili Birim Testleri. 
+
+1250505077 - Muhammet Mert Oruç - Kapasiteye Göre Paket Dagitim Algoritmasi, Factory Tasarim Kalibi, Proje Dokümantasyonu (README.md) ve İlgili Birim Testleri. 

@@ -1,0 +1,7 @@
+PKT-101;Devlet Hastanesi;Lüleburgaz;35.00;15.00;300.00;true;true;false
+PKT-102;Merkez Market;Babaeski;20.00;10.00;600.00;false;true;false
+PKT-103;Organize Sanayi;Vize;45.00;30.00;1400.00;true;false;false
+PKT-104;Teknoloji Magazasi;Üsküp;18.00;4.00;350.00;true;false;false
+PKT-105;Kampüs Kirtasiye;Kayali Kampüsü;6.00;2.00;200.00;false;false;false
+PKT-106;Yapi Market;Pinarhisar;28.00;22.00;900.00;false;false;false
+PKT-107;Tarim Kooperatifi;Kofçaz;8.00;20.00;250.00;false;false;false
